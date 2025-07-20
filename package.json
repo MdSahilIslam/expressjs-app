@@ -1,0 +1,19 @@
+{
+  "name": "2nd_backend",
+  "version": "1.0.0",
+  "description": "second",
+  "keywords": [
+    "second_test"
+  ],
+  "license": "ISC",
+  "author": "Sahil",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^17.2.0",
+    "express": "^5.1.0"
+  }
+}
